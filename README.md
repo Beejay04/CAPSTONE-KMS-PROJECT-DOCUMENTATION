@@ -95,19 +95,23 @@ High sales in the Technology category reflect:
 	•	High repeat purchase rate, especially among corporate clients and businesses.
 
 STRATEGIC STEPS FOR KMS
-	1.	Segment Customers by Tech Purchases
+1.	Segment Customers by Tech Purchases
 Identify top customers who frequently purchase technology products — are they consumers, small businesses, or corporate clients?
-	2.	Analyze Product-Level Performance
+
+2.	Analyze Product-Level Performance
 Drill down into which specific tech items (e.g., printers, routers, laptops) are leading the sales to focus stocking and promotions.
-	3.	Check Profitability
+	
+ 3.	Check Profitability
 Ensure that high sales are also yielding healthy profit margins — not just volume.
 
  Recommendation
 	1.	Double Down on High-Demand Tech Products
 Expand inventory for best-selling items in the Technology category, especially those with consistent demand.
-	2.	Create Bundle Offers or Packages
+	
+ 2.	Create Bundle Offers or Packages
 Offer product bundles (e.g., printers + ink, laptop + accessories) to increase average order value.
-	3.	Targeted Marketing Campaigns
+	
+ 3.	Targeted Marketing Campaigns
 Run digital ads or email promotions focused on tech deals — especially to repeat or business customer
 
  
