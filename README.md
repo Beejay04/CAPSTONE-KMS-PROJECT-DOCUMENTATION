@@ -78,11 +78,7 @@ Question 1: Which product category had the highest sales?
 	•	Sum the Sales values
 	•	Sort in descending order
 
- ```sqlSELECT TOP 1 [Product_Category],SUM(Sales) AS Total_Sales
-FROM [dbo].[KMS sql Case Study]
-GROUP BY [Product_Category]
-ORDER BY Total_Sales DESC;
-```
+
  ## KEY INSIGHT
 
 Based on the analysis of KMS’s order data from 2009 to 2012, the product category with the highest total sales is:
