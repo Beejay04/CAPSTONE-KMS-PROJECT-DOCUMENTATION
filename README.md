@@ -18,20 +18,14 @@ The management of KMS engaged you as a Business Intelligence Analyst to:
 	•	Analyze sales, customer, and shipping data from 2009 to 2012
 	•	Identify performance trends and inefficiencies
 	•	Provide actionable recommendations to enhance revenue and reduce revenue
-
-
-
-
-
  
- 
-## Tools Used
+### Tools Used
 
 • Sql ( for quering, aggregating ,flitering large database)
 
 • Github for buildiing portfolio
 
-##  Key Insight
+###  Key Insight
   •	Highest Sales: Technology category led in overall revenue
   
   •	Top Region: Abuja topped the sales charts; Ibadan performed the lowest.
@@ -86,10 +80,39 @@ FROM [dbo].[KMS sql Case Study]
 GROUP BY [Product_Category]
 ORDER BY Total_Sales DESC;
 ```
+KEY INSIGHT
 
+Based on the analysis of KMS’s order data from 2009 to 2012, the product category with the highest total sales is:
+ Technology
+
+This category consistently outperformed others in terms of total revenue generated, indicating strong customer demand for tech products such as printers, laptops, and accessories.
+
+OPERATIIONAL IMPACT
+
+High sales in the Technology category reflect:
+	•	Strong customer interest and purchasing power in tech.
+	•	Potential for higher profit margins due to premium pricing.
+	•	High repeat purchase rate, especially among corporate clients and businesses.
+
+STRATEGIC STEPS FOR KMS
+	1.	Segment Customers by Tech Purchases
+Identify top customers who frequently purchase technology products — are they consumers, small businesses, or corporate clients?
+	2.	Analyze Product-Level Performance
+Drill down into which specific tech items (e.g., printers, routers, laptops) are leading the sales to focus stocking and promotions.
+	3.	Check Profitability
+Ensure that high sales are also yielding healthy profit margins — not just volume.
+
+ Recommendation
+	1.	Double Down on High-Demand Tech Products
+Expand inventory for best-selling items in the Technology category, especially those with consistent demand.
+	2.	Create Bundle Offers or Packages
+Offer product bundles (e.g., printers + ink, laptop + accessories) to increase average order value.
+	3.	Targeted Marketing Campaigns
+Run digital ads or email promotions focused on tech deals — especially to repeat or business customer
 
  
 
+RESULTS
 
 
-
+<img width="344" alt="sq 1" src="https://github.com/user-attachments/assets/b5418d5b-7676-4f56-9289-4cfa3bbf3335" />
