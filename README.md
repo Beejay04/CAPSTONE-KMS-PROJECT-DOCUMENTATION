@@ -18,6 +18,9 @@ The management of KMS engaged you as a Business Intelligence Analyst to:
 	•	Analyze sales, customer, and shipping data from 2009 to 2012
 	•	Identify performance trends and inefficiencies
 	•	Provide actionable recommendations to enhance revenue and reduce revenue
+
+
+
  
  
 ## Tools Used
