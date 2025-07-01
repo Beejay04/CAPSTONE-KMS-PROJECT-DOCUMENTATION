@@ -75,6 +75,14 @@ Question 1: Which product category had the highest sales?
 	•	Group by Product Category
 	•	Sum the Sales values
 	•	Sort in descending order
+
+ ```sqlSELECT TOP 1 [Product_Category],SUM(Sales) AS Total_Sales
+FROM [dbo].[KMS sql Case Study]
+GROUP BY [Product_Category]
+ORDER BY Total_Sales DESC;
+```
+
+
  
 
 
