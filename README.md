@@ -119,7 +119,98 @@ Run digital ads or email promotions focused on tech deals — especially to repe
 
  
 
-RESULTS
-
+RESULT
 
 <img width="344" alt="sq 1" src="https://github.com/user-attachments/assets/b5418d5b-7676-4f56-9289-4cfa3bbf3335" />
+
+
+
+
+QUESTION 2: What are the Top 3 and Bottom 3 regions in terms of sales?
+
+
+ Top 3 and Bottom 3 Regions by Sales
+
+
+  ## Key Insight
+
+Analysis of KMS’s 2009–2012 sales data reveals the following:
+
+ Top 3 Regions by Sales:
+ 
+Abuja
+
+Lagos
+
+Port Harcourt
+
+These regions consistently contributed the highest total sales across all product categories.
+
+ Bottom 3 Regions by Sales:
+ 
+ Ibadan
+ 
+  Kano 
+  
+  Benin
+
+These areas recorded the lowest sales volumes, indicating weaker customer activity or market penetration.
+
+
+## Operational Impact
+
+Understanding regional sales performance highlights where the company is thriving and where it’s underperforming.
+	
+ •	High-performing regions like Abuja and Lagos are likely benefiting from:
+ 
+ •	Larger population and commercial presence
+ 
+ •	Greater demand for office and tech supplies
+ 
+ •	Better logistics and delivery coverage
+ 
+ •	Low-performing regions may face
+ 
+•	Poor brand awareness
+
+•	Supply chain issues
+
+This insight enables data-driven regional planning and resource optimization.
+
+
+ ## Recommendation
+
+
+For Top Regions:
+
+Double Down on Investment
+Increase inventory, staffing, and promotional activities to maintain momentum.
+
+
+Offer Premium Services
+Consider loyalty programs, faster delivery options, or volume discounts to corporate clients.
+
+
+Study What Works
+Analyze what’s driving sales in these regions — customer preferences, marketing channels, or top-selling products — and replicate the strategy in other areas.
+
+
+ For Bottom Regions:
+ 
+Investigate the Root Causes
+Use surveys or local feedback to understand low engagement such as pricing, delivery delays, or product mismatch
+
+
+Localized Marketing Campaigns
+Run geo-targeted ads, offer region-specific discounts, or host awareness campaigns to grow visibility.
+
+
+ Partnerships or Outreach
+ with local businesses or retailers to distribute products and build presence.
+
+
+## RESULTS 
+
+<img width="296" alt="sq 2b" src="https://github.com/user-attachments/assets/c04388ec-127a-424e-a805-1a4827dc9de0" />
+<img width="310" alt="sq 2" src="https://github.com/user-attachments/assets/c84a22dc-13fb-4520-a2be-e99c704b225e" />
+
