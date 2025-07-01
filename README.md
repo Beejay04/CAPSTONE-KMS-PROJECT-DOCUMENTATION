@@ -38,8 +38,9 @@ The management of KMS engaged you as a Business Intelligence Analyst to:
   •	Customer Insights: Most valuable customers consistently purchased high-margin items like office chairs and IT equipment.
 
 
-### Analysis
+####  Analysis
 The analysis was conducted usingStructured Query Language -SQL and it was used for Querying, joins, aggregations, subqueries, analytics, following a series of steps outlined below:
+
 Uploading the Dataset into SQL Database: The KMS Superstore dataset was imported into a relational database system (e.g., Microsoft SQL Server).
 
 A new table (e.g., KMS_Superstore_Data) was created
@@ -63,11 +64,12 @@ Numeric results (like total sales, shipping cost, number of orders) were compare
 Patterns and anomalies (e.g., extremely low sales in certain regions) were noted.
 
 Documenting and Communicating the Insights: Each result was translated into a business insight (e.g., “Technology is the top-selling category”).
+
 Recommendations were generated based on patterns observed.
 
 These insights were grouped under each case scenario to align with business objectives.
 
-SQL QUERIES
+ ### SQL QUERIES
 Case Scenario I
 
 
