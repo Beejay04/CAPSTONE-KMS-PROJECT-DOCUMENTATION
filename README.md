@@ -38,7 +38,7 @@ The management of KMS engaged you as a Business Intelligence Analyst to:
   •	Customer Insights: Most valuable customers consistently purchased high-margin items like office chairs and IT equipment.
 
 
- Analysis
+ ## Analysis
  
 The analysis was conducted usingStructured Query Language -SQL and it was used for Querying, joins, aggregations, subqueries, analytics, following a series of steps outlined below:
 
