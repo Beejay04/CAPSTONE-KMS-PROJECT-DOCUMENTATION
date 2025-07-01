@@ -117,12 +117,14 @@ Offer product bundles (e.g., printers + ink, laptop + accessories) to increase a
  3.	Targeted Marketing Campaigns
 Run digital ads or email promotions focused on tech deals — especially to repeat or business customer
 
+
  
 
 RESULT
 
 
 <img width="344" alt="sq 1" src="https://github.com/user-attachments/assets/b5418d5b-7676-4f56-9289-4cfa3bbf3335" />
+
 
 
 QUESTION 2: What are the Top 3 and Bottom 3 regions in terms of sales?
