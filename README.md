@@ -25,7 +25,8 @@ The management of KMS engaged you as a Business Intelligence Analyst to:
 
 • Github for buildiing portfolio
 
-###  Key Insight
+## Key Insight
+
   •	Highest Sales: Technology category led in overall revenue
   
   •	Top Region: Abuja topped the sales charts; Ibadan performed the lowest.
@@ -37,7 +38,7 @@ The management of KMS engaged you as a Business Intelligence Analyst to:
   •	Customer Insights: Most valuable customers consistently purchased high-margin items like office chairs and IT equipment.
 
 
-####  Analysis
+ Analysis
 The analysis was conducted usingStructured Query Language -SQL and it was used for Querying, joins, aggregations, subqueries, analytics, following a series of steps outlined below:
 
 Uploading the Dataset into SQL Database: The KMS Superstore dataset was imported into a relational database system (e.g., Microsoft SQL Server).
@@ -67,6 +68,7 @@ Documenting and Communicating the Insights: Each result was translated into a bu
 Recommendations were generated based on patterns observed.
 
 These insights were grouped under each case scenario to align with business objectives.
+
 
  ### SQL QUERIES
 Case Scenario I
@@ -104,8 +106,8 @@ Drill down into which specific tech items (e.g., printers, routers, laptops) are
  3.	Check Profitability
 Ensure that high sales are also yielding healthy profit margins — not just volume.
 
-## Recommendation
-	1.	Double Down on High-Demand Tech Products
+## Recommendations 
+1.	Double Down on High-Demand Tech Products
 Expand inventory for best-selling items in the Technology category, especially those with consistent demand.
 	
  2.	Create Bundle Offers or Packages
