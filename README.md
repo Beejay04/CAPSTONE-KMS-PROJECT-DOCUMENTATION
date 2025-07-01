@@ -6,6 +6,7 @@ Business Intelligence Analysis for KMS: Sales, Shipping, and Customer Insights (
 
 
  ## Project Overview
+ 
 This repository showcases my capstone project, which centers on Kultra Mega Stores (KMS), headquartered in Lagos, Nigeria, specializes in the retail and wholesale distribution of office supplies and furniture. Its customer segments include:
 	•	Individual consumers (Consumer)
 	•	Small businesses (Retail)
@@ -14,6 +15,7 @@ This repository showcases my capstone project, which centers on Kultra Mega Stor
 KMS operates across multiple regions in Nigeria and is seeking data-driven insights to optimize performance, particularly in its Abuja division.
 
 ### Objective
+
 The management of KMS engaged you as a Business Intelligence Analyst to:
 	•	Analyze sales, customer, and shipping data from 2009 to 2012
 	•	Identify performance trends and inefficiencies
@@ -72,18 +74,13 @@ These insights were grouped under each case scenario to align with business obje
 
 
  ### SQL QUERIES
-Case Scenario I
-Question 1: Which product category had the highest sales?
-	•	Group by Product Category
-	•	Sum the Sales values
-	•	Sort in descending order
-
-
- ## KEY INSIGHT
-
-Based on the analysis of KMS’s order data from 2009 to 2012, the product category with the highest total sales is:
  
- Technology
+Case Scenario I
+
+Question 1: Which product category had the highest sales?
+
+
+Based on the analysis of KMS’s order data from 2009 to 2012, the product category with the highest total sales is: Technology
 
 This category consistently outperformed others in terms of total revenue generated, indicating strong customer demand for tech products such as printers, laptops, and accessories.
 
