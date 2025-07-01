@@ -215,3 +215,5 @@ Run geo-targeted ads, offer region-specific discounts, or host awareness campaig
 <img width="296" alt="sq 2b" src="https://github.com/user-attachments/assets/c04388ec-127a-424e-a805-1a4827dc9de0" />
 <img width="310" alt="sq 2" src="https://github.com/user-attachments/assets/c84a22dc-13fb-4520-a2be-e99c704b225e" />
 
+
+
