@@ -87,7 +87,7 @@ Based on the analysis of KMS’s order data from 2009 to 2012, the product categ
 
 This category consistently outperformed others in terms of total revenue generated, indicating strong customer demand for tech products such as printers, laptops, and accessories.
 
-OPERATIIONAL IMPACT
+OPERATIONAL IMPACT
 
 High sales in the Technology category reflect:
 	•	Strong customer interest and purchasing power in tech.
