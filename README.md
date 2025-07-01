@@ -39,6 +39,7 @@ The management of KMS engaged you as a Business Intelligence Analyst to:
 
 
  Analysis
+ 
 The analysis was conducted usingStructured Query Language -SQL and it was used for Querying, joins, aggregations, subqueries, analytics, following a series of steps outlined below:
 
 Uploading the Dataset into SQL Database: The KMS Superstore dataset was imported into a relational database system (e.g., Microsoft SQL Server).
