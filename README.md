@@ -17,18 +17,57 @@ KMS operates across multiple regions in Nigeria and is seeking data-driven insig
 The management of KMS engaged you as a Business Intelligence Analyst to:
 	•	Analyze sales, customer, and shipping data from 2009 to 2012
 	•	Identify performance trends and inefficiencies
-	•	Provide actionable recommendations to enhance revenue and reduce costs
+	•	Provide actionable recommendations to enhance revenue and reduce revenue
+ 
  
 ## Tools Used
+
 • Sql ( for quering, aggregating ,flitering large database)
 
 • Github for buildiing portfolio
 
- Key Insight
+##  Key Insight
   •	Highest Sales: Technology category led in overall revenue
+  
   •	Top Region: Abuja topped the sales charts; Ibadan performed the lowest.
+  
   •	Shipping Cost Insight: First Class shipping incurred the highest cost; switch high-volume non-urgent orders to Standard Class or Truck.
+  
   •	Customer Growth Plan: Offer loyalty programs or tailored promotions to bottom 10 customers.
+  
   •	Customer Insights: Most valuable customers consistently purchased high-margin items like office chairs and IT equipment.
+
+
+AnalysisThe analysis was conducted usingStructured Query Language -SQL and it was used for Querying, joins, aggregations, subqueries, analytics, following a series of steps outlined below:
+
+Uploading the Dataset into SQL Database: The KMS Superstore dataset was imported into a relational database system (e.g., Microsoft SQL Server).
+A new table (e.g., KMS_Superstore_Data) was created.
+
+Data types were defined for each column (e.g., Sales as FLOAT, Order_Date as DATE).
+
+Any import errors (e.g., due to NULL values or formatting issues) were resolved before proceeding.
+
+Verifying the Structure and Contents of the Table.
+
+Exploring the Dataset (Exploratory SQL Checks).
+
+Cleaning or Handling Missing Values: Replaced NULL values with appropriate placeholders (e.g., 0 for numeric fields, or excluded them from calculations).
+
+Writing SQL Queries to Answer Each Business Question
+
+Interpreting Query Results: Query outputs were analyzed to extract meaningful insights.
+
+Numeric results (like total sales, shipping cost, number of orders) were compared across groups.
+
+Patterns and anomalies (e.g., extremely low sales in certain regions) were noted.
+
+Documenting and Communicating the Insights: Each result was translated into a business insight (e.g., “Technology is the top-selling category”).
+Recommendations were generated based on patterns observed.
+
+These insights were grouped under each case scenario to align with business objectives.
+
+SQL QUERIES
+Case Scenario I
+
 
 
