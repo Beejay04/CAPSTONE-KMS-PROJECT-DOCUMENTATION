@@ -85,6 +85,7 @@ ORDER BY Total_Sales DESC;
  ## KEY INSIGHT
 
 Based on the analysis of KMS’s order data from 2009 to 2012, the product category with the highest total sales is:
+ 
  Technology
 
 This category consistently outperformed others in terms of total revenue generated, indicating strong customer demand for tech products such as printers, laptops, and accessories.
@@ -92,11 +93,15 @@ This category consistently outperformed others in terms of total revenue generat
  ## OPERATIONAL IMPACT
 
 High sales in the Technology category reflect:
-	•	Strong customer interest and purchasing power in tech.
-	•	Potential for higher profit margins due to premium pricing.
-	•	High repeat purchase rate, especially among corporate clients and businesses.
+•	Strong customer interest and purchasing power in tech.
+ 
+•	Potential for higher profit margins due to premium pricing.
+ 
+•	High repeat purchase rate, especially among corporate clients and businesses.
+
 
 ## STRATEGIC STEPS FOR KMS
+
 1.	Segment Customers by Tech Purchases
 Identify top customers who frequently purchase technology products — are they consumers, small businesses, or corporate clients?
 
@@ -107,6 +112,7 @@ Drill down into which specific tech items (e.g., printers, routers, laptops) are
 Ensure that high sales are also yielding healthy profit margins — not just volume.
 
 ## Recommendations 
+
 1.	Double Down on High-Demand Tech Products
 Expand inventory for best-selling items in the Technology category, especially those with consistent demand.
 	
