@@ -87,6 +87,7 @@ This category consistently outperformed others in terms of total revenue generat
  ## OPERATIONAL IMPACT
 
 High sales in the Technology category reflect:
+
 •	Strong customer interest and purchasing power in tech.
  
 •	Potential for higher profit margins due to premium pricing.
