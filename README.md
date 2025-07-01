@@ -71,6 +71,12 @@ These insights were grouped under each case scenario to align with business obje
 
  ### SQL QUERIES
 Case Scenario I
+Question 1: Which product category had the highest sales?
+	•	Group by Product Category
+	•	Sum the Sales values
+	•	Sort in descending order
+ 
+
 
 
 
