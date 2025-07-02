@@ -89,8 +89,10 @@ This category consistently outperformed others in terms of total revenue generat
 High sales in the Technology category reflect:
 
 •	Strong customer interest and purchasing power in tech.
+
  
 •	Potential for higher profit margins due to premium pricing.
+
  
 •	High repeat purchase rate, especially among corporate clients and businesses.
 
@@ -129,14 +131,14 @@ RESULT
 
 
 
-### QUESTION 2: What are the Top 3 and Bottom 3 regions in terms of sales?
+##  QUESTION 2: What are the Top 3 and Bottom 3 regions in terms of sales?
 
 
  Top 3 and Bottom 3 Regions by Sales
 
 
 
-   # Key Insight
+    Key Insight
 
 Analysis of KMS’s 2009–2012 sales data reveals the following:
 
