@@ -244,12 +244,11 @@ It also may indicate that customers in Ontario prioritize other categories like 
 
 This insight can inform product and regional strategy decisions:
 
- For Inventory & Distribution
- 
-	•	Reduce or optimize appliance stock levels in Ontario to prevent overstocking.
- 
- 
-	•	Focus warehouse space and logistics on higher-demand products for the region.
+For Inventory & Distribution
+
+•	Reduce or optimize appliance stock levels in Ontario to prevent overstocking.
+
+•	Focus warehouse space and logistics on higher-demand products for the region.
 
  For Marketing & Sales Strategy
  
