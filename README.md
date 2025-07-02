@@ -118,12 +118,14 @@ Offer product bundles (e.g., printers + ink, laptop + accessories) to increase a
 Run digital ads or email promotions focused on tech deals — especially to repeat or business customer
 
 
- 
 
 RESULT
 
 
+
 <img width="344" alt="sq 1" src="https://github.com/user-attachments/assets/b5418d5b-7676-4f56-9289-4cfa3bbf3335" />
+
+
 
 
 
@@ -210,7 +212,10 @@ Run geo-targeted ads, offer region-specific discounts, or host awareness campaig
  with local businesses or retailers to distribute products and build presence.
 
 
+
 ## RESULTS 
+
+
 
 <img width="296" alt="sq 2b" src="https://github.com/user-attachments/assets/c04388ec-127a-424e-a805-1a4827dc9de0" />
 <img width="310" alt="sq 2" src="https://github.com/user-attachments/assets/c84a22dc-13fb-4520-a2be-e99c704b225e" />
