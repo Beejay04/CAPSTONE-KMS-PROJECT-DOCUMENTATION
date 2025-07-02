@@ -409,7 +409,7 @@ Introduce monthly or quarterly subscriptions for their most-used items.
 ### QUESTION 8
 
 ### Insight:
-This customer values reliability and convenience over one-time bulk orders—they place frequent orders, which makes them ideal for contract-based sales.
+This customer values reliability and convenience over one time bulk orders—they place frequent orders, which makes them ideal for contract-based sales.
 
 ###  Recommendation:
 Offer priority processing or dedicated account support.
@@ -419,3 +419,16 @@ Consider volume-based pricing tiers or yearly supply contracts.
 ### Result
 <img width="505" alt="sq 8" src="https://github.com/user-attachments/assets/d3cbfdf1-2c0f-41cd-9752-1e150574c768" />
 
+### QUESTION 9
+
+### Insight:
+This customer may frequently buy mid- to high value items without discount codes or returns making them more profitable than those with higher sales but lower margins.
+
+### Recommendation:
+Identify and replicate what drives this customer’s behavior (e.g., product choices, order frequency).
+
+Offer referral bonuses or appreciation incentives to encourage repeat business.
+
+### Result
+
+<img width="372" alt="sq 9" src="https://github.com/user-attachments/assets/38b389cf-4d42-4559-bb93-903e5980593f" />
