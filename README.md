@@ -1,6 +1,6 @@
 # CAPSTONE-KMS-PROJECT-DOCUMENTATION
 
-Project Title:
+## Project Title:
 
 Business Intelligence Analysis for KMS: Sales, Shipping, and Customer Insights (2009–2012)
 
@@ -262,7 +262,7 @@ For Inventory & Distribution
 
 ## Question 4: 
 
-## Key Insight
+### Key Insight
 
 The bottom 10 customers contribute the least revenue over the 4-year period. These could be:
 
@@ -325,3 +325,50 @@ This approach not only increases revenue but can reactivate dormant customers in
 
 
 ## Question 5:
+
+After analyzing the shipping data from 2009 to 2012, the shipping method with the highest cumulative shipping cost was
+
+<img width="401" alt="sq 5" src="https://github.com/user-attachments/assets/1f184e23-4b8f-4e0b-9837-6ab2b53dad4d" />
+
+Key Insight
+This method, while potentially faster or preferred by high-value customers, is also driving up logistics costs significantly.
+
+It may be:
+
+Overused even for low-value or non-urgent orders.
+
+The default option for specific customer types (e.g., corporate clients).
+
+In need of stricter qualification criteria (e.g., minimum order value).
+
+ ### Operational Impact
+ 
+ Cost Efficiency
+High cumulative shipping costs eat into profit margins, especially if not offset by order size or product value.
+Overuse of expensive shipping methods without revenue justification can lead to unnecessary overhead.
+
+ 
+ Profit Margin Management
+Some products may become unprofitable when paired with high-cost shipping (especially low-margin items).
+There is a need to balance speed with cost, particularly for non-urgent deliveries.
+
+Policy & Automation
+KMS may lack a shipping policy that assigns methods based on order value, urgency, or customer tier.
+The company may also benefit from automating shipping selection in their ordering system.
+
+### Strategic Recommendation
+Revise Shipping Policy
+Only allow premium shipping methods (e.g., First Class, Express Air) for:
+
+High-value orders
+
+Urgent deliveries
+
+Premium customers (corporate or VIP)
+
+Introduce Shipping Thresholds
+Offer free or discounted shipping only if the order exceeds a certain value.
+
+Promote Economical Options
+Encourage Standard or Truck delivery for regular customers through discounts or extended delivery windows.
+
