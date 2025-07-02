@@ -402,5 +402,7 @@ Provide business-specific deals and reorder options.
 
 Introduce monthly or quarterly subscriptions for their most-used items.
 
-### Result <img width="359" alt="sq 7" src="https://github.com/user-attachments/assets/fb60e1df-36b3-4b1e-b193-973d51e7ba78" />
+### Result
+
+ <img width="359" alt="sq 7" src="https://github.com/user-attachments/assets/fb60e1df-36b3-4b1e-b193-973d51e7ba78" />
 
