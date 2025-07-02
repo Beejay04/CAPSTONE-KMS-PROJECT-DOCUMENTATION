@@ -208,7 +208,7 @@ Run geo-targeted ads, offer region-specific discounts, or host awareness campaig
 
 
 
-### RESULTS 
+## RESULTS 
 
 
 
@@ -226,7 +226,7 @@ Run geo-targeted ads, offer region-specific discounts, or host awareness campaig
 
 
 
-### Key Insight
+## Key Insight
 
 Appliance sales in Ontario are moderate to low, suggesting either:
 	•	Weak customer demand for this product type in the region, or
@@ -330,7 +330,7 @@ After analyzing the shipping data from 2009 to 2012, the shipping method with th
 
 <img width="401" alt="sq 5" src="https://github.com/user-attachments/assets/1f184e23-4b8f-4e0b-9837-6ab2b53dad4d" />
 
-Key Insight
+### Key Insight
 This method, while potentially faster or preferred by high-value customers, is also driving up logistics costs significantly.
 
 It may be:
