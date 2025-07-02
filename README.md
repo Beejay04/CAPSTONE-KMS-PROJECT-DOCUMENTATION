@@ -75,9 +75,9 @@ These insights were grouped under each case scenario to align with business obje
 
  ### SQL QUERIES
  
-Case Scenario I
+## Case Scenario I
 
-Question 1: Which product category had the highest sales?
+### Question 1:
 
 
 Based on the analysis of KMS’s order data from 2009 to 2012, the product category with the highest total sales is: Technology
@@ -131,7 +131,7 @@ Run digital ads or email promotions focused on tech deals — especially to repe
 
 
 
-## QUESTION 2: What are the Top 3 and Bottom 3 regions in terms of sales?
+## QUESTION 2: 
 
 Analysis of KMS’s 2009–2012 sales data reveals the following:
 
@@ -260,7 +260,7 @@ For Inventory & Distribution
  •	Bundle appliances with tech or furniture products to drive interest.
 
 
-## QUESTION 4: Advise the management of kms on what to do to increase the revenue from the bottom 10 customers 
+## Question 4: 
 
 ## Key Insight
 
@@ -324,3 +324,4 @@ This approach not only increases revenue but can reactivate dormant customers in
 <img width="386" alt="sq 4" src="https://github.com/user-attachments/assets/d0d3c7b4-ae0e-4468-aa3e-72caabdc88cf" />
 
 
+## Question 5:
