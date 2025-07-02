@@ -226,7 +226,7 @@ Run geo-targeted ads, offer region-specific discounts, or host awareness campaig
 
 
 
-## Key Insight
+### Key Insight
 
 Appliance sales in Ontario are moderate to low, suggesting either:
 	•	Weak customer demand for this product type in the region, or
