@@ -450,62 +450,40 @@ For segments with higher return rates, offer live chat support or pre-shipping c
 <img width="413" alt="sq 11" src="https://github.com/user-attachments/assets/06fb6877-3574-49ba-ac37-35708387446d" />
 
  
-### Analysis
-## Optimized Decisions:
-High and Critical Priority Orders were mostly shipped with Regular Air and Express Air (fast methods) and arrived in 1 day — well-aligned with business needs.
+## Analysis
+ ### Key Insight
+There are several mismatches where low-priority orders used expensive Express Air, and critical orders were shipped with slow Delivery Truck.
 
-Low Priority Orders using Delivery Truck had longer delivery times (3–4 days), which is expected and cost-effective.
+This indicates:
 
-## Areas for Improvement:
+Lack of a rule-based shipping selection process
 
-1. Delivery Truck used for Critical and High Priority Orders
-For Critical: 228 orders used Delivery Truck, costing ₦1.2 million.
+Potential customer dissatisfaction for late critical orders
 
-For High: 248 orders used Delivery Truck, costing ₦1.3 million.
-
- While the delivery time was still fast (1 day), the truck may not have been the best choice if reliability or urgency was expected.
-
-2. Medium Priority Orders using Expensive Express Air
-201 Medium-priority orders were shipped via Express Air, costing ₦2.4 million — the highest spend for Express Air across all priorities.
-
-These are not time-critical, so this is a clear case of overspending.
-
-3. Low Priority Orders Using Express Air
-190 orders used Express Air for ₦190k with 4-day delivery (same as cheaper truck).
-
-This spend was unjustified given the longer delivery time and low priority.
-
-### Key Insight
-There’s no consistent rule aligning order priority with shipping method. The company:
-
-Overused Express Air for non-urgent (Low & Medium) orders.
-
-Sometimes used slow Truck shipping for Critical orders, risking customer satisfaction.
-
-Could optimize shipping spend by enforcing method-priority alignment.
+Unnecessary costs incurred on low-priority deliveries
 
 ### Operational Impact
-KMS spent over ₦2.6 million on Express Air for non-critical orders — avoidable cost.
+Overuse of Express Air raises logistics costs without boosting revenue or satisfaction.
 
-Over 1,200 critical and high-priority orders were handled with slower or less reliable methods.
+Using Delivery Truck for urgent items risks losing high-value clients due to late delivery.
 
- ### Recommendation
-Set Shipping Rules Based on Priority
+Inconsistency suggests there’s no automated shipping logic in place.
 
-Express Air → Only for Critical & High
+###  Recommendation
+Set Automated Shipping Rules
 
-Delivery Truck → Only for Low & Medium
+Express Air → only for Critical or High priority orders
 
-Regular Air → Default for Medium
+Delivery Truck → only for Medium or Low priority
 
-Audit and Monitor Shipping Reports
+Monitor Monthly Shipping Reports
+Flag mismatches between order priority and shipping mode.
 
-Identify mismatches monthly and revise logistics accordingly.
+Train Sales & Logistics Teams
+Ensure they understand the cost vs priority implications.
 
-Customer Satisfaction Alignment
+Customer Communication
+Let customers choose speed vs cost when placing orders.
 
-Critical/High customers expect fast delivery — always prioritize speed here.
-
-### Summary
-No, KMS did not spend appropriately on shipping based on order priority.
-There is evidence of inefficiency, particularly in using costly Express Air for medium and low-priority orders, and slow methods for critical deliveries.
+### Summary 
+No, the company did not always spend shipping costs appropriately based on order priority. There's evidence of inefficiency and misalignment that can be corrected through automated policies and better oversight.
