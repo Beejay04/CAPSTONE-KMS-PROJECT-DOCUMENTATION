@@ -450,13 +450,13 @@ For segments with higher return rates, offer live chat support or pre-shipping c
 <img width="413" alt="sq 11" src="https://github.com/user-attachments/assets/06fb6877-3574-49ba-ac37-35708387446d" />
 
  
-Analysis
-### Optimized Decisions:
+### Analysis
+## Optimized Decisions:
 High and Critical Priority Orders were mostly shipped with Regular Air and Express Air (fast methods) and arrived in 1 day — well-aligned with business needs.
 
 Low Priority Orders using Delivery Truck had longer delivery times (3–4 days), which is expected and cost-effective.
 
-### Areas for Improvement:
+## Areas for Improvement:
 
 1. Delivery Truck used for Critical and High Priority Orders
 For Critical: 228 orders used Delivery Truck, costing ₦1.2 million.
