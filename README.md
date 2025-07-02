@@ -259,3 +259,68 @@ For Inventory & Distribution
  
  •	Bundle appliances with tech or furniture products to drive interest.
 
+
+# QUESTION 4:Advise the management of kms on what to do to increase the revenue from the bottom 10 customers 
+
+### Key Insight
+
+The bottom 10 customers contribute the least revenue over the 4-year period. These could be:
+
+One-time buyers
+
+Inactive or infrequent customers
+
+Customers with low-value orders
+
+They represent untapped growth potential.
+
+### Operational Insight
+Increasing revenue from these customers is often more cost-effective than acquiring new ones.
+
+They already know the brand — they just need the right incentives or engagement to spend more.
+
+### Proposing Action Plans
+
+1. Customer Segmentation & Profiling
+Identify which segment these customers belong to: Consumer, Small Business (Retail), or Corporate.
+
+Understand their purchase history — what did they buy? How often? At what price point?
+
+2. Personalized Promotions
+Offer targeted discounts or bundles based on their previous purchases.
+
+Example: If a customer bought office chairs, offer a 10% discount on matching desks or accessories.
+
+Use email or SMS to deliver exclusive time-limited deals.
+
+ 3. Loyalty & Referral Programs
+Introduce a basic loyalty program that rewards repeat purchases.
+
+Offer referral bonuses for recommending new customers or placing bulk orders.
+
+4. Account Manager Follow-up
+Assign a sales rep to contact these customers directly.
+
+Understand why they stopped ordering.
+
+Offer personalized support or a special deal to win them back.
+
+5. Product Education & Awareness
+Send out product guides, catalogues, or tutorials to show how KMS products meet their needs.
+
+
+###  Recommendation
+To boost revenue from the bottom 10 customers, KMS should:
+
+Re-engage them with personalized communication and offers
+
+Build trust and convenience through tailored service
+
+Monitor their response and adjust strategies accordingly
+
+This approach not only increases revenue but can reactivate dormant customers into long-term buyers.
+
+## Result
+<img width="386" alt="sq 4" src="https://github.com/user-attachments/assets/d0d3c7b4-ae0e-4468-aa3e-72caabdc88cf" />
+
+
