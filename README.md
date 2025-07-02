@@ -121,7 +121,7 @@ Run digital ads or email promotions focused on tech deals — especially to repe
 
 
 
-# RESULT
+### RESULT
 
 
 
@@ -208,7 +208,7 @@ Run geo-targeted ads, offer region-specific discounts, or host awareness campaig
 
 
 
-# RESULTS 
+### RESULTS 
 
 
 
@@ -340,6 +340,7 @@ Overused even for low-value or non-urgent orders.
 The default option for specific customer types (e.g., corporate clients).
 
 In need of stricter qualification criteria (e.g., minimum order value).
+
 
  ### Operational Impact
  
