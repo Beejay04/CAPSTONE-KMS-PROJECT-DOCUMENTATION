@@ -129,8 +129,6 @@ Run digital ads or email promotions focused on tech deals — especially to repe
 
 
 
-
-
 ## QUESTION 2: 
 
 Analysis of KMS’s 2009–2012 sales data reveals the following:
@@ -208,7 +206,7 @@ Run geo-targeted ads, offer region-specific discounts, or host awareness campaig
 
 
 
-## RESULTS 
+### RESULTS 
 
 
 
@@ -320,7 +318,7 @@ Monitor their response and adjust strategies accordingly
 
 This approach not only increases revenue but can reactivate dormant customers into long-term buyers.
 
-## Result
+### Result
 <img width="386" alt="sq 4" src="https://github.com/user-attachments/assets/d0d3c7b4-ae0e-4468-aa3e-72caabdc88cf" />
 
 
