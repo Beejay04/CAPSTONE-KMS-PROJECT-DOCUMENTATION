@@ -392,3 +392,15 @@ Upsell premium or bundled products based on their buying patterns.
 <img width="409" alt="sq 6" src="https://github.com/user-attachments/assets/d7c78c18-a2ee-4ee6-a94f-8647a9cdd1f7">
 
 
+### QUESTION 7
+
+ ### Insight:
+The highest-spending small business customer shows strong loyalty. They may rely on KMS for operational needs like printers, desks, or bulk stationery.
+
+### Recommendation:
+Provide business-specific deals and reorder options.
+
+Introduce monthly or quarterly subscriptions for their most-used items.
+
+### Result <img width="359" alt="sq 7" src="https://github.com/user-attachments/assets/fb60e1df-36b3-4b1e-b193-973d51e7ba78" />
+
