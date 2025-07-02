@@ -406,3 +406,16 @@ Introduce monthly or quarterly subscriptions for their most-used items.
 
  <img width="359" alt="sq 7" src="https://github.com/user-attachments/assets/fb60e1df-36b3-4b1e-b193-973d51e7ba78" />
 
+### QUESTION 8
+
+### Insight:
+This customer values reliability and convenience over one-time bulk orders—they place frequent orders, which makes them ideal for contract-based sales.
+
+###  Recommendation:
+Offer priority processing or dedicated account support.
+
+Consider volume-based pricing tiers or yearly supply contracts.
+
+### Result
+<img width="505" alt="sq 8" src="https://github.com/user-attachments/assets/d3cbfdf1-2c0f-41cd-9752-1e150574c768" />
+
