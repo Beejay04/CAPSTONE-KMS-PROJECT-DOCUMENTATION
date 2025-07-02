@@ -450,8 +450,7 @@ For segments with higher return rates, offer live chat support or pre-shipping c
 <img width="413" alt="sq 11" src="https://github.com/user-attachments/assets/06fb6877-3574-49ba-ac37-35708387446d" />
 
  
-## Analysis
- ### Key Insight
+  ### Key Insight
 There are several mismatches where low-priority orders used expensive Express Air, and critical orders were shipped with slow Delivery Truck.
 
 This indicates:
