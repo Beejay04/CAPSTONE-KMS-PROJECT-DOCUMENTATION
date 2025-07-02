@@ -129,13 +129,14 @@ RESULT
 
 
 
-## QUESTION 2: What are the Top 3 and Bottom 3 regions in terms of sales?
+### QUESTION 2: What are the Top 3 and Bottom 3 regions in terms of sales?
 
 
  Top 3 and Bottom 3 Regions by Sales
 
 
-   Key Insight
+
+   # Key Insight
 
 Analysis of KMS’s 2009–2012 sales data reveals the following:
 
@@ -181,10 +182,10 @@ Understanding regional sales performance highlights where the company is thrivin
 This insight enables data-driven regional planning and resource optimization.
 
 
- # Recommendation
+ ## Recommendation
 
 
-For Top Regions:
+# For Top Regions:
 
 Double Down on Investment
 Increase inventory, staffing, and promotional activities to maintain momentum.
@@ -198,7 +199,7 @@ Study What Works
 Analyze what’s driving sales in these regions — customer preferences, marketing channels, or top-selling products — and replicate the strategy in other areas.
 
 
- For Bottom Regions:
+ ## For Bottom Regions:
  
 Investigate the Root Causes
 Use surveys or local feedback to understand low engagement such as pricing, delivery delays, or product mismatch
