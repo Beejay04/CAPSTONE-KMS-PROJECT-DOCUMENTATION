@@ -277,7 +277,7 @@ They represent untapped growth potential.
 ### Operational Insight
 Increasing revenue from these customers is often more cost-effective than acquiring new ones.
 
-They already know the brand — they just need the right incentives or engagement to spend more.
+They already know the brand they just need the right incentives or engagement to spend more.
 
 ### Proposing Action Plans
 
