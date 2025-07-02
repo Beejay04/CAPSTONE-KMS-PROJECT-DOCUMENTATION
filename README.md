@@ -253,21 +253,15 @@ This insight can inform product and regional strategy decisions:
 
  For Marketing & Sales Strategy
  
+ •	Run targeted promotions or bundles to improve appliance sales in Ontario.
  
-	•	Run targeted promotions or bundles to improve appliance sales in Ontario.
-
- 
- 
-	•	Investigate local competitors’ offerings — KMS may be losing market share due to pricing, availability, or brand preference.
+ •	Investigate local competitors’ offerings — KMS may be losing market share due to pricing, availability, or brand preference.
 
 
 
  # Recommendation
 
+ •	Conduct a market survey in Ontario to understand low appliance uptake. are customers aware? Is pricing an issue? Are delivery times too long?
  
-	•	Conduct a market survey in Ontario to understand low appliance uptake. are customers aware? Is pricing an issue? Are delivery times too long?
-
-
- 
-	•	Bundle appliances with tech or furniture products to drive interest.
+ •	Bundle appliances with tech or furniture products to drive interest.
 
