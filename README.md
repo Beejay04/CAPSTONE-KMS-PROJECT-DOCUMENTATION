@@ -133,9 +133,6 @@ RESULT
 
 ##  QUESTION 2: What are the Top 3 and Bottom 3 regions in terms of sales?
 
-
-    # Key Insight
-
 Analysis of KMS’s 2009–2012 sales data reveals the following:
 
  Top 3 Regions by Sales:
@@ -182,8 +179,7 @@ This insight enables data-driven regional planning and resource optimization.
 
  # Recommendation
 
-
-# For Top Regions:
+ For Top Regions:
 
 Double Down on Investment
 Increase inventory, staffing, and promotional activities to maintain momentum.
@@ -197,7 +193,7 @@ Study What Works
 Analyze what’s driving sales in these regions — customer preferences, marketing channels, or top-selling products — and replicate the strategy in other areas.
 
 
- # For Bottom Regions:
+ For Bottom Regions:
  
 Investigate the Root Causes
 Use surveys or local feedback to understand low engagement such as pricing, delivery delays, or product mismatch
@@ -233,6 +229,8 @@ RESULT
 
 
 
+
+
  # Key Insight
 
 Appliance sales in Ontario are moderate to low, suggesting either:
@@ -250,20 +248,25 @@ This insight can inform product and regional strategy decisions:
  
 	•	Reduce or optimize appliance stock levels in Ontario to prevent overstocking.
  
+ 
 	•	Focus warehouse space and logistics on higher-demand products for the region.
 
  For Marketing & Sales Strategy
  
+ 
 	•	Run targeted promotions or bundles to improve appliance sales in Ontario.
+
  
  
 	•	Investigate local competitors’ offerings — KMS may be losing market share due to pricing, availability, or brand preference.
+
 
 
  # Recommendation
 
  
 	•	Conduct a market survey in Ontario to understand low appliance uptake. are customers aware? Is pricing an issue? Are delivery times too long?
+
 
  
 	•	Bundle appliances with tech or furniture products to drive interest.
