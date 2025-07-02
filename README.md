@@ -221,4 +221,33 @@ Run geo-targeted ads, offer region-specific discounts, or host awareness campaig
 <img width="310" alt="sq 2" src="https://github.com/user-attachments/assets/c84a22dc-13fb-4520-a2be-e99c704b225e" />
 
 
+Question 3: What Were the Total Sales of Appliances in Ontario?
+
+
+
+ Key Insight
+
+Appliance sales in Ontario are moderate to low, suggesting either:
+	•	Weak customer demand for this product type in the region, or
+	•	A possible lack of product availability, marketing, or awareness.
+
+It also may indicate that customers in Ontario prioritize other categories like technology or office supplies over appliances.
+
+
+ Operational Impact
+
+This insight can inform product and regional strategy decisions:
+
+ For Inventory & Distribution
+	•	Reduce or optimize appliance stock levels in Ontario to prevent overstocking.
+	•	Focus warehouse space and logistics on higher-demand products for the region.
+
+ For Marketing & Sales Strategy
+	•	Run targeted promotions or bundles to improve appliance sales in Ontario.
+	•	Investigate local competitors’ offerings — KMS may be losing market share due to pricing, availability, or brand preference.
+
+
+ Recommendation
+	•	Conduct a market survey in Ontario to understand low appliance uptake. are customers aware? Is pricing an issue? Are delivery times too long?
+	•	Bundle appliances with tech or furniture products to drive interest.
 
