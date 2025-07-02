@@ -223,9 +223,17 @@ Run geo-targeted ads, offer region-specific discounts, or host awareness campaig
 
 Question 3: What Were the Total Sales of Appliances in Ontario?
 
+After filtering the data for:
+	•	Product Category = Appliances
+	•	Region = Ontario
 
 
- Key Insight
+Total Sales of Appliances in Ontario: ₦45,000 
+
+RESULT 
+
+
+ ## Key Insight
 
 Appliance sales in Ontario are moderate to low, suggesting either:
 	•	Weak customer demand for this product type in the region, or
@@ -234,20 +242,23 @@ Appliance sales in Ontario are moderate to low, suggesting either:
 It also may indicate that customers in Ontario prioritize other categories like technology or office supplies over appliances.
 
 
- Operational Impact
+ ## Operational Impact
 
 This insight can inform product and regional strategy decisions:
 
  For Inventory & Distribution
 	•	Reduce or optimize appliance stock levels in Ontario to prevent overstocking.
+ 
 	•	Focus warehouse space and logistics on higher-demand products for the region.
 
  For Marketing & Sales Strategy
 	•	Run targeted promotions or bundles to improve appliance sales in Ontario.
+ 
 	•	Investigate local competitors’ offerings — KMS may be losing market share due to pricing, availability, or brand preference.
 
 
- Recommendation
+ ## Recommendation
 	•	Conduct a market survey in Ontario to understand low appliance uptake. are customers aware? Is pricing an issue? Are delivery times too long?
+ 
 	•	Bundle appliances with tech or furniture products to drive interest.
 
