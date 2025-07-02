@@ -373,16 +373,16 @@ Offer free or discounted shipping only if the order exceeds a certain value.
 Promote Economical Options
 Encourage Standard or Truck delivery for regular customers through discounts or extended delivery windows.
 
-# Case Scenario II 
+## Case Scenario II 
 
-# QUESTION 6 
+### QUESTION 6 
 
- Insight:
+ ### Insight:
  
 Top customers are mostly corporate clients, and they consistently purchase technology and office furniture—high-value items that drive most of KMS’s revenue.
 
 
-Recommendation:
+### Recommendation:
 Offer VIP loyalty perks or account management to retain them.
 
 Upsell premium or bundled products based on their buying patterns.
