@@ -373,7 +373,7 @@ Encourage Standard or Truck delivery for regular customers through discounts or 
 
 ## Case Scenario II 
 
-## QUESTION 6:
+##  QUESTION 6:
 
  ### Insight:
  
