@@ -77,7 +77,7 @@ These insights were grouped under each case scenario to align with business obje
  
 ## Case Scenario I
 
-### Question 1:
+## Question 1:
 
 
 Based on the analysis of KMS’s order data from 2009 to 2012, the product category with the highest total sales is: Technology
@@ -431,7 +431,7 @@ Offer referral bonuses or appreciation incentives to encourage repeat business.
 
 <img width="372" alt="sq 9" src="https://github.com/user-attachments/assets/38b389cf-4d42-4559-bb93-903e5980593f" />
 
-### QUESTION 9
+### QUESTION 10
 
 ### Insight:
 Returns might be more common among consumer or retail customers, possibly due to order errors or dissatisfaction.
