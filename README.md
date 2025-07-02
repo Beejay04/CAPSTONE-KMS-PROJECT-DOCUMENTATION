@@ -260,7 +260,7 @@ For Inventory & Distribution
  •	Bundle appliances with tech or furniture products to drive interest.
 
 
-# QUESTION 4:Advise the management of kms on what to do to increase the revenue from the bottom 10 customers 
+## QUESTION 4: Advise the management of kms on what to do to increase the revenue from the bottom 10 customers 
 
 ### Key Insight
 
