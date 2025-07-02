@@ -129,7 +129,7 @@ RESULT
 
 
 
-QUESTION 2: What are the Top 3 and Bottom 3 regions in terms of sales?
+### QUESTION 2: What are the Top 3 and Bottom 3 regions in terms of sales?
 
 
  Top 3 and Bottom 3 Regions by Sales
