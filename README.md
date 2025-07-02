@@ -5,7 +5,7 @@ Project Title:
 Business Intelligence Analysis for KMS: Sales, Shipping, and Customer Insights (2009–2012)
 
 
- # Project Overview
+ ##- Project Overview
  
 This repository showcases my capstone project, which centers on Kultra Mega Stores (KMS), headquartered in Lagos, Nigeria, specializes in the retail and wholesale distribution of office supplies and furniture. Its customer segments include:
 	•	Individual consumers (Consumer)
