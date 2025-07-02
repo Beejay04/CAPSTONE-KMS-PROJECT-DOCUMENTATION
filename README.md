@@ -262,7 +262,7 @@ For Inventory & Distribution
 
 ## QUESTION 4: Advise the management of kms on what to do to increase the revenue from the bottom 10 customers 
 
-### Key Insight
+## Key Insight
 
 The bottom 10 customers contribute the least revenue over the 4-year period. These could be:
 
