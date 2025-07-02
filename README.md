@@ -77,7 +77,7 @@ These insights were grouped under each case scenario to align with business obje
  
 ## Case Scenario I
 
-## Question 1:
+## QUESTION 1:
 
 
 Based on the analysis of KMS’s order data from 2009 to 2012, the product category with the highest total sales is: Technology
@@ -214,7 +214,7 @@ Run geo-targeted ads, offer region-specific discounts, or host awareness campaig
 <img width="310" alt="sq 2" src="https://github.com/user-attachments/assets/c84a22dc-13fb-4520-a2be-e99c704b225e" />
 
 
-## Question 3: 
+## QUESTION 3: 
 
 
 ### RESULT 
@@ -258,7 +258,7 @@ For Inventory & Distribution
  •	Bundle appliances with tech or furniture products to drive interest.
 
 
-## Question 4: 
+## QUESTION 4: 
 
 ### Key Insight
 
@@ -322,7 +322,7 @@ This approach not only increases revenue but can reactivate dormant customers in
 <img width="386" alt="sq 4" src="https://github.com/user-attachments/assets/d0d3c7b4-ae0e-4468-aa3e-72caabdc88cf" />
 
 
-## Question 5:
+## QUESTION 5:
 
 After analyzing the shipping data from 2009 to 2012, the shipping method with the highest cumulative shipping cost was
 
@@ -444,3 +444,67 @@ For segments with higher return rates, offer live chat support or pre-shipping c
 ### Result
 
 <img width="445" alt="sq 10" src="https://github.com/user-attachments/assets/d4cb98f7-c0bd-4af2-8835-78c359896650" />
+
+
+## QUESTION 11:
+<img width="413" alt="sq 11" src="https://github.com/user-attachments/assets/06fb6877-3574-49ba-ac37-35708387446d" />
+
+ Analysis
+### Optimized Decisions:
+High and Critical Priority Orders were mostly shipped with Regular Air and Express Air (fast methods) and arrived in 1 day — well-aligned with business needs.
+
+Low Priority Orders using Delivery Truck had longer delivery times (3–4 days), which is expected and cost-effective.
+
+### Areas for Improvement:
+
+1. Delivery Truck used for Critical and High Priority Orders
+For Critical: 228 orders used Delivery Truck, costing ₦1.2 million.
+
+For High: 248 orders used Delivery Truck, costing ₦1.3 million.
+
+ While the delivery time was still fast (1 day), the truck may not have been the best choice if reliability or urgency was expected.
+
+2. Medium Priority Orders using Expensive Express Air
+201 Medium-priority orders were shipped via Express Air, costing ₦2.4 million — the highest spend for Express Air across all priorities.
+
+These are not time-critical, so this is a clear case of overspending.
+
+3. Low Priority Orders Using Express Air
+190 orders used Express Air for ₦190k with 4-day delivery (same as cheaper truck).
+
+This spend was unjustified given the longer delivery time and low priority.
+
+### Key Insight
+There’s no consistent rule aligning order priority with shipping method. The company:
+
+Overused Express Air for non-urgent (Low & Medium) orders.
+
+Sometimes used slow Truck shipping for Critical orders, risking customer satisfaction.
+
+Could optimize shipping spend by enforcing method-priority alignment.
+
+### Operational Impact
+KMS spent over ₦2.6 million on Express Air for non-critical orders — avoidable cost.
+
+Over 1,200 critical and high-priority orders were handled with slower or less reliable methods.
+
+ ### Recommendation
+Set Shipping Rules Based on Priority
+
+Express Air → Only for Critical & High
+
+Delivery Truck → Only for Low & Medium
+
+Regular Air → Default for Medium
+
+Audit and Monitor Shipping Reports
+
+Identify mismatches monthly and revise logistics accordingly.
+
+Customer Satisfaction Alignment
+
+Critical/High customers expect fast delivery — always prioritize speed here.
+
+### Summary
+No, KMS did not spend appropriately on shipping based on order priority.
+There is evidence of inefficiency, particularly in using costly Express Air for medium and low-priority orders, and slow methods for critical deliveries.
