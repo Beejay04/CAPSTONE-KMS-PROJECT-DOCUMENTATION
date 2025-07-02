@@ -449,7 +449,8 @@ For segments with higher return rates, offer live chat support or pre-shipping c
 ## QUESTION 11:
 <img width="413" alt="sq 11" src="https://github.com/user-attachments/assets/06fb6877-3574-49ba-ac37-35708387446d" />
 
- Analysis
+ 
+Analysis
 ### Optimized Decisions:
 High and Critical Priority Orders were mostly shipped with Regular Air and Express Air (fast methods) and arrived in 1 day — well-aligned with business needs.
 
