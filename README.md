@@ -389,4 +389,6 @@ Upsell premium or bundled products based on their buying patterns.
 
 ### Result
 
-<img width="409" alt="sq 6" src="https://github.com/user-attachments/assets/d7c78c18-a2ee-4ee6-a94f-8647a9cdd1f7" />
+<img width="409" alt="sq 6" src="https://github.com/user-attachments/assets/d7c78c18-a2ee-4ee6-a94f-8647a9cdd1f7">
+
+
