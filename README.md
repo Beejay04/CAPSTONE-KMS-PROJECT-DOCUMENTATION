@@ -134,11 +134,7 @@ RESULT
 ##  QUESTION 2: What are the Top 3 and Bottom 3 regions in terms of sales?
 
 
- Top 3 and Bottom 3 Regions by Sales
-
-
-
-    Key Insight
+    # Key Insight
 
 Analysis of KMS’s 2009–2012 sales data reveals the following:
 
@@ -236,6 +232,7 @@ Total Sales of Appliances in Ontario: ₦45,000
 RESULT 
 
 
+
  # Key Insight
 
 Appliance sales in Ontario are moderate to low, suggesting either:
@@ -259,10 +256,12 @@ This insight can inform product and regional strategy decisions:
  
 	•	Run targeted promotions or bundles to improve appliance sales in Ontario.
  
+ 
 	•	Investigate local competitors’ offerings — KMS may be losing market share due to pricing, availability, or brand preference.
 
 
  # Recommendation
+
  
 	•	Conduct a market survey in Ontario to understand low appliance uptake. are customers aware? Is pricing an issue? Are delivery times too long?
 
