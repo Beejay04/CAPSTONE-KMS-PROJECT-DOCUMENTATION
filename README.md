@@ -225,8 +225,9 @@ After filtering the data for:
 
 Total Sales of Appliances in Ontario: ₦45,000 
 
-RESULT 
 
+
+<img width="377" alt="sq 3" src="https://github.com/user-attachments/assets/049084f0-4094-4332-ae3e-2db9c5f8670a" />
 
 
 
