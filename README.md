@@ -5,7 +5,7 @@ Project Title:
 Business Intelligence Analysis for KMS: Sales, Shipping, and Customer Insights (2009–2012)
 
 
- ## Project Overview
+ # Project Overview
  
 This repository showcases my capstone project, which centers on Kultra Mega Stores (KMS), headquartered in Lagos, Nigeria, specializes in the retail and wholesale distribution of office supplies and furniture. Its customer segments include:
 	•	Individual consumers (Consumer)
@@ -14,20 +14,20 @@ This repository showcases my capstone project, which centers on Kultra Mega Stor
 
 KMS operates across multiple regions in Nigeria and is seeking data-driven insights to optimize performance, particularly in its Abuja division.
 
-### Objective
+# Objective
 
 The management of KMS engaged you as a Business Intelligence Analyst to:
 	•	Analyze sales, customer, and shipping data from 2009 to 2012
 	•	Identify performance trends and inefficiencies
 	•	Provide actionable recommendations to enhance revenue and reduce revenue
  
-### Tools Used
+# Tools Used
 
 • Sql ( for quering, aggregating ,flitering large database)
 
 • Github for buildiing portfolio
 
-## Key Insight
+# Key Insight
 
   •	Highest Sales: Technology category led in overall revenue
   
@@ -40,7 +40,7 @@ The management of KMS engaged you as a Business Intelligence Analyst to:
   •	Customer Insights: Most valuable customers consistently purchased high-margin items like office chairs and IT equipment.
 
 
- ## Analysis
+ # Analysis
  
 The analysis was conducted usingStructured Query Language -SQL and it was used for Querying, joins, aggregations, subqueries, analytics, following a series of steps outlined below:
 
@@ -73,7 +73,7 @@ Recommendations were generated based on patterns observed.
 These insights were grouped under each case scenario to align with business objectives.
 
 
- ### SQL QUERIES
+ ## SQL QUERIES
  
 Case Scenario I
 
@@ -84,7 +84,7 @@ Based on the analysis of KMS’s order data from 2009 to 2012, the product categ
 
 This category consistently outperformed others in terms of total revenue generated, indicating strong customer demand for tech products such as printers, laptops, and accessories.
 
- ## OPERATIONAL IMPACT
+ # OPERATIONAL IMPACT
 
 High sales in the Technology category reflect:
 
@@ -95,7 +95,7 @@ High sales in the Technology category reflect:
 •	High repeat purchase rate, especially among corporate clients and businesses.
 
 
-## STRATEGIC STEPS FOR KMS
+# STRATEGIC STEPS FOR KMS
 
 1.	Segment Customers by Tech Purchases
 Identify top customers who frequently purchase technology products — are they consumers, small businesses, or corporate clients?
@@ -106,7 +106,7 @@ Drill down into which specific tech items (e.g., printers, routers, laptops) are
  3.	Check Profitability
 Ensure that high sales are also yielding healthy profit margins — not just volume.
 
-## Recommendations 
+# Recommendations 
 
 1.	Double Down on High-Demand Tech Products
 Expand inventory for best-selling items in the Technology category, especially those with consistent demand.
@@ -129,13 +129,13 @@ RESULT
 
 
 
-### QUESTION 2: What are the Top 3 and Bottom 3 regions in terms of sales?
+## QUESTION 2: What are the Top 3 and Bottom 3 regions in terms of sales?
 
 
  Top 3 and Bottom 3 Regions by Sales
 
 
-  ## Key Insight
+   Key Insight
 
 Analysis of KMS’s 2009–2012 sales data reveals the following:
 
@@ -160,7 +160,7 @@ These regions consistently contributed the highest total sales across all produc
 These areas recorded the lowest sales volumes, indicating weaker customer activity or market penetration.
 
 
-## Operational Impact
+# Operational Impact
 
 Understanding regional sales performance highlights where the company is thriving and where it’s underperforming.
 	
@@ -181,7 +181,7 @@ Understanding regional sales performance highlights where the company is thrivin
 This insight enables data-driven regional planning and resource optimization.
 
 
- ## Recommendation
+ # Recommendation
 
 
 For Top Regions:
@@ -213,7 +213,7 @@ Run geo-targeted ads, offer region-specific discounts, or host awareness campaig
 
 
 
-## RESULTS 
+# RESULTS 
 
 
 
@@ -247,18 +247,22 @@ It also may indicate that customers in Ontario prioritize other categories like 
 This insight can inform product and regional strategy decisions:
 
  For Inventory & Distribution
+ 
 	•	Reduce or optimize appliance stock levels in Ontario to prevent overstocking.
  
 	•	Focus warehouse space and logistics on higher-demand products for the region.
 
  For Marketing & Sales Strategy
+ 
 	•	Run targeted promotions or bundles to improve appliance sales in Ontario.
  
 	•	Investigate local competitors’ offerings — KMS may be losing market share due to pricing, availability, or brand preference.
 
 
  ## Recommendation
+ 
 	•	Conduct a market survey in Ontario to understand low appliance uptake. are customers aware? Is pricing an issue? Are delivery times too long?
+
  
 	•	Bundle appliances with tech or furniture products to drive interest.
 
